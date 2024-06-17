@@ -13,5 +13,31 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Cuirasser",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 27,
+		"cost": 200,
+		"requiredTech": "Metallurgy",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit","[+10]% Strength <when attacking>", "Consumes [1] [Horses]", "Consumes [1] [Iron]"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Sanqian Ying",
+		"unitType": "Mounted",
+		"replaces": "Cuirasser",
+		"uniqueTo": "China",
+		"movement": 6,
+		"strength": 35,
+		"cost": 10
+		"requiredTech": "Metallurgy",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Consumes [1] [Horses]","[+20]% Strength <when attacking>","Consumes [1] [Iron]"],
+		"upgradesTo": "Landship",
+		"obsoleteTech": "Combustion",
+		"attackSound": "horse"
 	}
-]
+
