@@ -1,0 +1,12 @@
+{
+    "isBaseRuleset": false,
+    "uniques": [
+	"Cannot be used as permanent audiovisual mod",
+	"Mod is incompatible with [Civ V - Vanilla]",
+	"Can trade civilization introductions for [200] Gold",
+	"Mod requires [Civ V - Gods & Kings]"
+	],
+    "constants": {
+        "unitUpgradeCost": {}
+		}
+}
