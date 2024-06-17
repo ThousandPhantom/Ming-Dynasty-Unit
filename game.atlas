@@ -1,0 +1,15 @@
+game.png
+TileSets/FantasyHex/Units/Cuirasser
+  rotate: false
+  xy: 1144, 572
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sanqian Ying
+  rotate: false
+  xy: 1144, 572
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
